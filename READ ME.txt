@@ -1,0 +1,6 @@
+READ ME!!
+
+When running any classes on eclipse the program staring point is always the class LoginSystem.java
+
+The program users sperarted set of text files when run through eclipse or fro JAR file. The "txtfiles" folder found in cars coursework and the txtfiles inside it is used when the program runs through eclipse.When the program is executed via JAR file in "runnable File " folder the "txtfiles" in that directory is used instead
+

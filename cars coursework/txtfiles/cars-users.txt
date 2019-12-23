@@ -1,0 +1,3 @@
+admin1,YXBwbGU=,admin
+staff1,b3Jhbmdl,staff
+customer1,bGVtb24=,customer
